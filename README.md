@@ -12,6 +12,8 @@
 <li>Select the "Dashboard" link in the nav bar to be taken to the stats page where you can see statistics of the last 7 workouts</li>
 </ol>
 
+![Demo](/assets/images/Sample.PNG)
+
 ## Questions  
 My GitHub profile: [crichards17](https://github/crichards17)  
 My email: [crichards1717@gmail.com](crichards1717@gmail.com)  
